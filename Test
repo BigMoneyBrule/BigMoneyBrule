@@ -1,0 +1,7 @@
+dictionary_RE = { 
+  "Bool": "Yes, of course" 
+  "Name": "Brule" 
+  "Crack": "Smoked" 
+} 
+
+print(dictionary_RE) 
